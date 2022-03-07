@@ -1,1 +1,4 @@
-print('Hello, world!')
+from Robot import *
+
+r = Robot("Lucy")
+print(r)
